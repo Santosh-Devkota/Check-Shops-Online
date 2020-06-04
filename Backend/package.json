@@ -1,0 +1,19 @@
+{
+  "name": "check_shops_online",
+  "version": "1.0.0",
+  "description": "This shop provides platform for shops and helps the vendors. Also for client it provides helps to buy the products. Basically, it acts as a e-commerce platform.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Santosh-Devkota/Check-Shops-Online.git"
+  },
+  "author": "Santosh Devkota",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Santosh-Devkota/Check-Shops-Online/issues"
+  },
+  "homepage": "https://github.com/Santosh-Devkota/Check-Shops-Online#readme"
+}
